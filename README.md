@@ -6,5 +6,9 @@ the overflow,but it can be connected to an LED and it can be interpreted as the 
 <p>The other digits of the number will be the results of the partial sums of each full adder.</p>
 <p>In one of the images there is a diagram of a 4bit full adder, and the other ones are taken while I started working on this project, the last one shows the finished circuit.</p>
 
-Diagram:
+<p>Diagram:</p>
+
 ![](/4-bit-full-adder.jpeg)
+
+<p>Finished adder:</p>
+![](/91768257_1078404165870026_3128832818428248064_n.jpg)
