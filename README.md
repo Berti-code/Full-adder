@@ -11,4 +11,5 @@ the overflow,but it can be connected to an LED and it can be interpreted as the 
 ![](/4-bit-full-adder.jpeg)
 
 <p>Finished adder:</p>
+
 ![](/91768257_1078404165870026_3128832818428248064_n.jpg)
